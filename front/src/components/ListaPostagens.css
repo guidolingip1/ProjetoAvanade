@@ -1,0 +1,61 @@
+.postagem {
+  width: 350px;
+  padding: 15px;
+  border: #3CBC8D 1px solid;
+  border-radius: 8px;
+  box-shadow: 5px 5px 8px #68b69959;
+  display: flex;
+  flex-direction: column;
+}
+
+.postagemCorpo{
+  text-align: center;
+  background-color: #16191f77;
+  border-radius: 8px;
+  height: 50%;
+}
+
+.creator {
+  display: inline-flex;
+  width: auto;
+  margin: 0;
+}
+
+.creator p {
+  margin-right: 15px;
+}
+
+#title {
+  font-size: 16px;
+}
+
+#body {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#author {
+  font-size: 16px;
+  color: #3CBC8D;
+}
+
+.botoesPostagem {
+  display: inline-flex;
+  width: auto;
+  margin: 0;
+  justify-content: center;
+}
+
+button {
+  margin-right: 20px;
+}
+
+.lista-postagens{
+  margin-bottom: 20px;
+}
+
+.postagem-preview{
+  margin-bottom: 20px;
+}

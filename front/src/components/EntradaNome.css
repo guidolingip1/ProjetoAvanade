@@ -1,0 +1,26 @@
+.entrada {
+  padding: 30px;
+  border: #3CBC8D 1px solid;
+  border-radius: 8px;
+  box-shadow: 5px 5px 8px #68b69959;
+}
+
+.entrada input[type=text] {
+  height: 30px;
+  background-color: #3CBC8D;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+}
+
+button {
+  margin-top: 30px;
+  height: 30px;
+  border: #3CBC8D 2px solid;
+  border-radius: 8px;
+}

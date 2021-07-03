@@ -1,0 +1,50 @@
+.criaPostagem p {
+  font-size: medium;
+  margin-right: 10px;
+}
+.criaPostagem {
+  width: 600px;
+  height: auto;
+  border: #3CBC8D 1px solid;
+  border-radius: 8px;
+  box-shadow: 5px 5px 8px #68b69959;
+}
+
+.criaPostagem input[type=text] {
+  height: 30px;
+  width: 500px;
+  background-color: #3CBC8D;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.title {
+  display: inline-flex;
+  width: auto;
+  margin: 0;
+}
+
+.body {
+  display: inline-flex;
+  width: auto;
+  margin: 0;
+}
+
+hr{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 50%;
+  border: 1px solid #3CBC8D;
+}
+
+#formTitulo {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#btn {
+  width: 150px;
+}
