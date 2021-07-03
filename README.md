@@ -1,7 +1,7 @@
 # Projeto Avanade
 
 ## Como ficou?
--> gif
+![gif](https://github.com/guidolingip1/ProjetoAvanade/blob/main/meugif.gif)
 ## O que eu implementei
 ### Backend:
 Métodos GET para receber a lista e POST para criar um post.
